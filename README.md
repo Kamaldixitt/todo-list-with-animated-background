@@ -15,7 +15,7 @@ A simple and intuitive To-Do List web application to help you manage your daily 
 
 
 
-[Live Demo]()
+[Live Demo](https://kamaldixitt.github.io/todo-list-with-animated-background/)
 
 ## 📦 Tech Stack
 
