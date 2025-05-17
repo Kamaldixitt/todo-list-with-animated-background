@@ -13,9 +13,9 @@ A simple and intuitive To-Do List web application to help you manage your daily 
 
 ## 📸 Demo
 
-![App Screenshot](screenshot.png)
 
-[Live Demo](https://your-demo-url.com)
+
+[Live Demo]()
 
 ## 📦 Tech Stack
 
